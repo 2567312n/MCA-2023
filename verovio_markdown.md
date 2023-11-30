@@ -5,7 +5,7 @@ Please note, the score will **NOT** appear when viewed from github, instead you 
 
 # Goldberg Variations Aria - J.S Bach
 
-{% data/MCA_GoldbergVariations.mei verovio_inline.html %}
+{% include_relative verovio_inline.html %}
 
 # Next heading
 
