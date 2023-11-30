@@ -10,7 +10,7 @@ Importing PDF's into musescore on a base level is effective however the quality 
 Using the Goldberg Variation Aria; a digitally recreation, Musescore effectively recognised the base level details such as Key, Time Signature and Tempo as well as MOST of the notes such as storng beat notes with the correct rhythms. Musecore struggled with many quicker notes, starting at 1/16th notes as well as ornamnets such as a recurring issue with mordents which could change the character of the piece without. The area which required most development was the way the music was structured and how the original presneted the Aria. The original uses a piano stave with multiple crossing voices and MuseScore struggled to recognise a second/third voice in the bass clef frequently. The second voice was more common due to the third being mostly underutlised, confusing the software with uneven note rhythm to the time signature. This fault mainly resides with the original's structuring and the Import done well by keeping the correct time signature regardless. Overall, it was a compotent import with minor changes, at least compared with differing pieces used as a test which where completely unrecognisable or having an incomplete import due to their complexity
 ## Week 3
 [Week 3 Goldberg](week3.md)
-{% data/MCA_GoldbergVariations (2).mei verovio_inline.html %}
+{% include_relative verovio_inline.html %}
 Within MEI, pitch is represented by 'pname=x' ('x' being the note name) and 'oct=x' ('x 'being that notes numerical octave positioning)
 Rhythm/Duration is detailed by 'dur=x' ('x' being the numerical name for the given note (i.e. dur=8 is a quaver/eighth note))
 An MEI file displays all data contained within the score.
