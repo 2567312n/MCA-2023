@@ -2,4 +2,6 @@
 
 Using Music21 - Jupyter Notebook, I was able to develop various alternative visualistions of the Goldberg Variations score. The core data accoumulated stemmed from a Histogram, Piano Roll of pitches and a Scatter Plot graph.
 The Histogram informs on the frequency of pitches in their octave placement, helping to display the harmonic heights and depths the piece primarily resides within.
-The Piano Roll of Pitches
+The Piano Roll of Pitches similarly displays notes. However, this graph focuses less on the octave placement but the individual pitches (regardless of octave) in their prescribed measures.
+The Scatter Plot allows us to see the duration of these notes to better understand their prominance within the piece.
+These all assit in understanding the harmony of the Goldberg Variations Aria. Futhermore, the key becomes visualised as well as Bach's 'leaning' on certain intervals within the key.
