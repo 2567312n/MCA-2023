@@ -1,1 +1,3 @@
 |[Week 1](Week1.md)||[Week 2](week2.md)||[Week 3](week3.md)||[Week 4](week4.md)||[Week 5](week5.md)||[Week 6](week6.md)||[Week 7](week7.md)||[Week 8](week8.md)||[Week 9](week9.md)||[Week 10](week10.md)|
+
+I had to dictate what metadata would be important for the score. The series is noteworthy due to the sheer mass of compositions Bach created and this assists place its period of compostion. I listed the style as 'Aria' to demonstrate this is a solo piece. For further use of the score the copyright information is necessary; luckily the Goldberg Variations are Public Domain thanks to the non-profit 'Open Goldberg Variations'.
